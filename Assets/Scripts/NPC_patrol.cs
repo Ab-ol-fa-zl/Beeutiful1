@@ -1,10 +1,10 @@
 using System.Collections;
 using UnityEngine;
 
-public class NPC-patrol : MonoBehaviour
+public class NewMonoBehaviourScript : MonoBehaviour
 {
-    public vector2{} patrolPoints;
-    
+
+    public Vector2[] PatrolPoints;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
