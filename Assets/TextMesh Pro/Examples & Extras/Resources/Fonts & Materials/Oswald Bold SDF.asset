@@ -3,7 +3,11 @@
 --- !u!21 &2147374
 Material:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   serializedVersion: 6
+=======
+  serializedVersion: 8
+>>>>>>> Stashed changes
 =======
   serializedVersion: 8
 >>>>>>> Stashed changes
@@ -14,12 +18,18 @@ Material:
   m_Name: Oswald Bold SDF Material
   m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_ShaderKeywords: 
 =======
+=======
+>>>>>>> Stashed changes
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
@@ -28,6 +38,10 @@ Material:
   stringTagMap: {}
   disabledShaderPasses: []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+  m_LockedProperties: 
+>>>>>>> Stashed changes
 =======
   m_LockedProperties: 
 >>>>>>> Stashed changes
@@ -55,6 +69,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    m_Ints: []
+>>>>>>> Stashed changes
 =======
     m_Ints: []
 >>>>>>> Stashed changes
@@ -122,6 +140,11 @@ Material:
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+>>>>>>> Stashed changes
 =======
   m_BuildTextureStacks: []
   m_AllowLocking: 1
@@ -140,11 +163,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Version: 1.1.0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Material: {fileID: 2147374}
   m_SourceFontFileGUID: c9f6d0e7bc8541498c9a4799ba184ede
   m_SourceFontFile: {fileID: 12800000, guid: c9f6d0e7bc8541498c9a4799ba184ede, type: 3}
   m_AtlasPopulationMode: 1
   InternalDynamicOS: 0
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   m_FaceInfo:
@@ -169,6 +195,7 @@ MonoBehaviour:
     m_StrikethroughOffset: 23.2
     m_StrikethroughThickness: 4.482422
     m_TabWidth: 18
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GlyphTable: []
   m_CharacterTable: []
@@ -225,6 +252,10 @@ MonoBehaviour:
   m_Material: {fileID: 2147374}
   m_SourceFontFileGUID: c9f6d0e7bc8541498c9a4799ba184ede
 >>>>>>> Stashed changes
+=======
+  m_Material: {fileID: 2147374}
+  m_SourceFontFileGUID: c9f6d0e7bc8541498c9a4799ba184ede
+>>>>>>> Stashed changes
   m_CreationSettings:
     sourceFontFileName: 
     sourceFontFileGUID: c9f6d0e7bc8541498c9a4799ba184ede
@@ -245,7 +276,10 @@ MonoBehaviour:
     renderMode: 4165
     includeFontFeatures: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
   m_SourceFontFile: {fileID: 12800000, guid: c9f6d0e7bc8541498c9a4799ba184ede, type: 3}
   m_SourceFontFilePath: 
   m_AtlasPopulationMode: 1
@@ -2346,6 +2380,9 @@ MonoBehaviour:
     m_MarkToMarkAdjustmentRecords: []
   m_ShouldReimportFontFeatures: 0
   m_FallbackFontAssetTable: []
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_FontWeightTable:
   - regularTypeface: {fileID: 0}
@@ -2396,7 +2433,10 @@ MonoBehaviour:
   italicStyle: 35
   tabSize: 10
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
   m_fontInfo:
     Name: Oswald
     PointSize: 71
@@ -2424,6 +2464,9 @@ MonoBehaviour:
     kerningPairs: []
   fallbackFontAssets: []
   atlas: {fileID: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!28 &28256370963634744
 Texture2D:
@@ -2435,6 +2478,7 @@ Texture2D:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_ForcedFallbackFormat: 4
   m_DownscaleFallback: 0
@@ -2448,6 +2492,8 @@ Texture2D:
   m_StreamingMipmaps: 0
   m_StreamingMipmapsPriority: 0
 =======
+=======
+>>>>>>> Stashed changes
   m_IsAlphaChannelOptional: 0
   serializedVersion: 4
   m_Width: 1
@@ -2463,6 +2509,9 @@ Texture2D:
   m_StreamingMipmaps: 0
   m_StreamingMipmapsPriority: 0
   m_VTOnly: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_AlphaIsTransparency: 0
   m_ImageCount: 1
@@ -2478,15 +2527,21 @@ Texture2D:
   m_LightmapFormat: 0
   m_ColorSpace: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   image data: 0
   _typelessdata: 
   m_StreamData:
 =======
+=======
+>>>>>>> Stashed changes
   m_PlatformBlob: 
   image data: 1
   _typelessdata: 00
   m_StreamData:
     serializedVersion: 2
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     offset: 0
     size: 0
