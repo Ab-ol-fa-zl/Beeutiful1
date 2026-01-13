@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24bd09c7b7e1ea84389e741e5566d277, type: 3}
+  m_Name: player
+  m_EditorClassIdentifier: Assembly-CSharp::ActorSO
+  actorName: mamagueno
+  portrait: {fileID: -8985629081661683911, guid: 3289a8da04ba5014f8b52907beeb036a, type: 3}
